@@ -1,4 +1,6 @@
 def func(n):
     print(n)
 
-func(42)
+def print_1():
+    print("1")
+
