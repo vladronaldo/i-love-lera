@@ -1,6 +1,6 @@
 def f(n:str,m:int):
-    if m < 21: print("несовершеннолетний")
+    if m < 23: print("несовершеннолетний")
     else: print('совершеннолетний')
     print('skibidi bop yes yes yes')
 
-f('vlad', 25)
+f('vlad', 26)
