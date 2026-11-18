@@ -1,2 +1,2 @@
 def su():
-    print("This is a sample function.")
+    print("This is a sam function.")
